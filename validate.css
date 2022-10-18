@@ -1,0 +1,20 @@
+body{
+    background-image: url('pic2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card{
+    background-color: black;
+    color: white;
+}
+.card-header{
+    text-align: center;
+    font-weight: bold;
+    background-color: rgb(169, 245, 245);
+    color: black;
+}
+.colorError{
+    color: red;
+}
+
+
